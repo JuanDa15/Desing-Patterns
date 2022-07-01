@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "implementation of some desing patterns",
   "scripts": {
-    "start:Singleton": "parcel Singleton/index.html"
+    "start:Singleton": "parcel Singleton/index.html",
+    "start:Observer" : "parcel Observer/index.html"
   },
   "repository": {
     "type": "git",
