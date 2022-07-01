@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "implementation of some desing patterns",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanDa15/Desing-Patterns.git"
+  },
+  "keywords": [
+    "design_patterns",
+    "patterns",
+    "singleton"
+  ],
+  "author": "Juan David Osorio Ortiz <jdoo1115@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanDa15/Desing-Patterns/issues"
+  },
+  "homepage": "https://github.com/JuanDa15/Desing-Patterns#readme"
+}
