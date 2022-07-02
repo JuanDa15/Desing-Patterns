@@ -4,7 +4,8 @@
   "description": "implementation of some desing patterns",
   "scripts": {
     "start:Singleton": "parcel Singleton/index.html",
-    "start:Observer" : "parcel Observer/index.html"
+    "start:Observer" : "parcel Observer/index.html",
+    "start:Decorator": "parcel Decorator/index.html"
   },
   "repository": {
     "type": "git",
